@@ -1,0 +1,35 @@
+caption{
+  text-align: center;
+  font-style: italic        
+}
+
+.menu{
+  width:200px
+}
+
+.menu A{
+ display: block;
+ width: 100%;
+ padding: 5px;
+ border-bottom: 200px;
+ background: #0000ff;
+ color: white;
+ text-align: center;
+ text-decoration: none;
+}
+
+
+.menu A:hover{
+  border-left-color: blue;
+  background: #ff0000;
+  color: #ffffcc;
+}  
+
+P{
+    font-size: 300%; 
+    font-family: Verdana; 
+    font-style: normal;                    
+    font-weight: bold; 
+    text-align: center;
+    color: red;
+}
